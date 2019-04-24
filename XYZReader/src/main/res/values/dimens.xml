@@ -14,4 +14,7 @@
     <dimen name="card_margin">8dp</dimen>
     <dimen name="actionbar_title_startline">0dp</dimen>
     <dimen name="detail_img_prot_height">500dp</dimen>
+    <dimen name="fab_pressed_elevation">12dp</dimen>
+    <dimen name="title_padding_16">16dp</dimen>
+    <dimen name="title_padding_4">4dp</dimen>
 </resources>
